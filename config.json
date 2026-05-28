@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricseync",
+        "uuid": 6634062,
+        "checksum": "u4jur5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
